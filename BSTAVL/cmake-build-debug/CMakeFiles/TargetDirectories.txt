@@ -1,0 +1,3 @@
+C:/Users/zhangsiqi/Desktop/C++/BSTAVL/cmake-build-debug/CMakeFiles/BSTAVL.dir
+C:/Users/zhangsiqi/Desktop/C++/BSTAVL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhangsiqi/Desktop/C++/BSTAVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

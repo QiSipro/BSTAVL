@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zhangsiqi/Desktop/C++/BSTAVL/BSTAVL.h
+iostream
+-
+cassert
+-
+queue
+-
+
+C:/Users/zhangsiqi/Desktop/C++/BSTAVL/main.cpp
+BSTAVL.h
+C:/Users/zhangsiqi/Desktop/C++/BSTAVL/BSTAVL.h
+

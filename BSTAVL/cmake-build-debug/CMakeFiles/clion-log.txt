@@ -1,0 +1,4 @@
+C:\Mysoft\CLion-2016\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\zhangsiqi\Desktop\C++\BSTAVL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/zhangsiqi/Desktop/C++/BSTAVL/cmake-build-debug
